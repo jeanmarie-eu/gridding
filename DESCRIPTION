@@ -1,7 +1,7 @@
 Package: gridding
 Type: Package
 Version: 0.0.1
-Authors@R: c(person("Jean-Marie", "Lepioufle", , "jm@nexmodeling.com", c("aut","cre")))
+Authors@R: c(person("Jean-Marie", "Lepioufle", , "me@jeanmarie.eu", c("aut","cre")))
 Title: Grid datasets
 Description: Grid datasets are embedded to this package
 Depends:
